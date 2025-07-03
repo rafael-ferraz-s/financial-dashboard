@@ -1,0 +1,8 @@
+{
+  "css.customData": [".vscode/css_custom_data.json"],
+  "scss.customData": [".vscode/css_custom_data.json"],
+  "less.customData": [".vscode/css_custom_data.json"],
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false
+}
